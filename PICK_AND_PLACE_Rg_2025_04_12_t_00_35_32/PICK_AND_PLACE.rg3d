@@ -1,0 +1,19 @@
+{
+"name": "PICK_AND_PLACE",
+"workcell": "PICK_AND_PLACE",
+"rgversion": "9.10145.00.23",
+"creationDate": "2025-04-12T00:35:33",
+"workcellFile": "data/WORKCELL4D.XML",
+"description": "HandlingPRO Workcell",
+"image": "folder.jpg",
+"animationFiles": [
+  { "name": "default",
+    "file": "data/ANIMATION.XML"
+  }
+],
+"viewpoints": [
+  { "name": "initial",
+    "viewpoint": "view_data"
+  }
+]
+}

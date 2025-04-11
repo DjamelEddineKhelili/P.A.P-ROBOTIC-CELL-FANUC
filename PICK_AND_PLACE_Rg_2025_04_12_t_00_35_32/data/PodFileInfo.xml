@@ -1,0 +1,227 @@
+<TPGL>
+  <!-- Copyright @ 2025 FANUC America Corporation and FANUC LTD Japan ALL RIGHTS RESERVED -->
+  <SETPOD name="FX216P1919" uiname="BOXIE[1,2,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX216P1919.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D483D484E484CURPOS0" uiname="Boxie_link" fullname="SimPRO.RGCMachineLink">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\D483D484E484CURPOS0.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102G103V1" uiname="vacuum01" fullname="SimPRO.RGCEOAT">
+    <filesize>"1.818(Mbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102G103V1.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX203" uiname="SUPPORT" fullname="SimPRO.RGCFixture">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX203.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U120" uiname="UFrame7" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102U120.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX216P1927" uiname="BOXIE[3,2,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX216P1927.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX216P1921" uiname="BOXIE[2,1,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX216P1921.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1688P1783" uiname="BOXIE[3,1,2]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1688P1783.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D483D484" uiname="Boxie_link" fullname="SimPRO.RGCMachineLink">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\D483D484.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U102">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102U102.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J6" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"46.647(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102_rb_J6.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX216P1922" uiname="BOXIE[2,1,2]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX216P1922.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D483D484E484" uiname="Boxie_link" fullname="SimPRO.RGCMachineLink">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\D483D484E484.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U115" uiname="UFrame2" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102U115.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J0" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"53.081(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102_rb_J0.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX216P1920" uiname="BOXIE[1,2,2]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX216P1920.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1753" uiname="Fixture1" fullname="SimPRO.RGCFixture">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1753.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1688P1776" uiname="BOXIE[1,2,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1688P1776.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1688P1689" uiname="BOXIE[1,1,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1688P1689.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U122" uiname="UFrame9" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102U122.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX203P207" uiname="BOXIE" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX203P207.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U118" uiname="UFrame5" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102U118.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U114" uiname="UFrame1" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102U114.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1688P1782" uiname="BOXIE[3,1,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1688P1782.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX216P217" uiname="BOXIE[1,1,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX216P217.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX216P1925" uiname="BOXIE[3,1,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX216P1925.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX216P1924" uiname="BOXIE[2,2,2]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX216P1924.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J1" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"62.351(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102_rb_J1.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX216P1918" uiname="BOXIE[1,1,2]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX216P1918.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1688P1784" uiname="BOXIE[3,2,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1688P1784.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1688P1775" uiname="BOXIE[1,1,2]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1688P1775.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J5" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"48.459(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102_rb_J5.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX216P1928" uiname="BOXIE[3,2,2]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX216P1928.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1688P1785" uiname="BOXIE[3,2,2]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1688P1785.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U116" uiname="UFrame3" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102U116.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX216P1926" uiname="BOXIE[3,1,2]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX216P1926.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX216P1923" uiname="BOXIE[2,2,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX216P1923.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D184" uiname="Dressout1" fullname="SimPRO.RGCMachine">
+    <filesize>"74.681(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\D184.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U119" uiname="UFrame6" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102U119.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U117" uiname="UFrame4" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102U117.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1688P1779" uiname="BOXIE[2,1,2]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1688P1779.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J4" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"66.359(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102_rb_J4.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D483" uiname="Moving_CONVEYOR" fullname="SimPRO.RGCMachine">
+    <filesize>"14.115(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\D483.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J3" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"44.257(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102_rb_J3.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J2" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"95.592(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102_rb_J2.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1688P1780" uiname="BOXIE[2,2,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1688P1780.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1688P1777" uiname="BOXIE[1,2,2]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1688P1777.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D483D484P838" uiname="BOXIE" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\D483D484P838.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U121" uiname="UFrame8" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102U121.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102G103V2" uiname="vacuum01" fullname="SimPRO.RGCEOAT">
+    <filesize>"1.818(Mbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102G103V2.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1688P1778" uiname="BOXIE[2,1,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1688P1778.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102x2000000002" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102x2000000002.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102G103P206" uiname="BOXIE" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\C1R102G103P206.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX216" uiname="PlasticPallet_L1000_W1000_H130" fullname="SimPRO.RGCFixture">
+    <filesize>"3.315(Mbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX216.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1688P1781" uiname="BOXIE[2,2,2]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1688P1781.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX1688" uiname="Bucket_Small" fullname="SimPRO.RGCFixture">
+    <filesize>"69.769(Kbyte)"</filesize>
+    <filepath>"C:\Users\djame\OneDrive\Documents\My Workcells\PICK_AND_PLACE\RG3DPlayer\PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32\cad\FX1688.pod"</filepath>
+  </SETPOD>
+</TPGL>
