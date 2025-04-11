@@ -1,5 +1,5 @@
 # P.A.P-ROBOTIC-CELL-FANUC
-Cellule robotisée faisant du Pick And Place d'un convoyeur vers un petit contenaire, puis sur un palette
+Cellule robotisée faisant du Pick And Place de boites 'Arduino' depuis un convoyeur vers un petit contenaire, puis sur un palette.
 
 ---
 
@@ -21,12 +21,16 @@ Cellule robotisée faisant du Pick And Place d'un convoyeur vers un petit conten
 ### Démo Vidéo
 ![Démonstration du fonctionnement complet de la simulation du Pick and Place] (dossier Video)
 
+### Démo Simulation-Vidéo
+![Démonstration du fonctionnement complet de la simulation du Pick and Place en rg3D] (dossier rg3D, fonctionne que sur ROBOGUIDE 3D Player)
+
 ---
 
 ## Dossiers
 - `Captures/` → Dossiers contenant les captures de la cellule
 - `video/` → La vidéo de démonstration
 - `programs/` → Les programmes utilisés et exportés en .ls
+- `PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32/` → Vidéo de démonstration en rg3D
 
 ---
 
