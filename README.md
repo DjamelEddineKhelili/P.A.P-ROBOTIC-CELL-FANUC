@@ -1,5 +1,5 @@
 # P.A.P-ROBOTIC-CELL-FANUC
-Cellule robotisée faisant du Pick And Place de boites 'Arduino' depuis un convoyeur vers un petit contenaire, puis sur un palette.
+Cellule robotisée faisant du Pick And Place de boites 'Arduino' depuis un convoyeur vers un petit contenaire, puis sur une palette.
 
 ---
 
