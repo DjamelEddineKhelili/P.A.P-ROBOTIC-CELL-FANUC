@@ -33,7 +33,7 @@ Cellule robotisée faisant du Pick And Place de boites 'Arduino' depuis un convo
 - `PICK_AND_PLACE_Rg_2025_04_12_t_00_35_32/` → Vidéo de démonstration en rg3D
 
 ---
-##Projet Complet
+## Projet Complet
 [⬇️ Télécharger le projet complet](https://drive.google.com/drive/folders/1HOnSopR_AWo2yFIfubUV_GIANzUb6dTw?usp=sharing) 
 ---
 ## Compétences développées (Apprises avec des ressources sur internet, vidéos, ChatGPT, forums.)
